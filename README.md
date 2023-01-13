@@ -5,12 +5,20 @@ I am now a data engineer who loves building data pipelines for business insights
 I am also a self-taught programmer on a mission to make coding accessible to everyone. On Medium at @thehippieandtheboss.
 
 
+Yep.. This is how my parents used to carry me around..
+
 <br/>
+<p align="center">
+  <img src="https://github.com/najmabad/najmabad/blob/main/05e53c76-3eda-4755-b3b3-cd289fabcb5e.jpg" width="500"/>
+</p>
+
+
+
 
 ## 😎 About me
 
 ```python
-najma_bader = {"I am           🐼 ": ["Data Engineer", "Data Analysts"],
+najma_bader = {"I am           🐼 ": ["Data Engineer", "Data Analyst"],
                "Certifications 👩‍💻 ": ["DevOps Bootcamp @techworld-with-nana.teachable.com - In progress ⚙️"],
                "Tech Stack     🛠 ": ["Python", "SQL", "Spark", "MySQL", "PostgreSQL", "MongoDB", "HDFS", "AWS", "GCP",
                                      "Jenkins", "Airflow", "Docker", "Kubernetes", "CI/CD", "Grafana", "Splunk", "Datadog"],
@@ -24,10 +32,16 @@ najma_bader = {"I am           🐼 ": ["Data Engineer", "Data Analysts"],
 
 
 ## Repositories
+- [TrueFilm ETL](https://github.com/najmabad/truefilm)
+- [Real-time Document Streaming](https://github.com/najmabad/real-time-document-streaming-project)
+- [Estimation of Healthy and Unhealthy Life Expectancy](https://github.com/najmabad/healthy_unhealthy_longevity/tree/master/longevity)
 
 
-## Medium Articles
-
+## Some Medium Articles
+ - [The Good way to structure a Python Project](https://medium.com/p/d914f27dfcc9)
+ - [How to become SQL Hero 🦸‍♀️🦸‍♂️](https://medium.com/plumbersofdatascience/the-most-important-advice-to-become-a-sql-hero-%EF%B8%8F-%EF%B8%8F-2614b53aa812)
+ - [How to Start Learning PySpark with no Big Data](https://medium.com/p/6b579dc50210)
+ - [How to write a good Dockerfile](https://medium.com/p/2a294f04975c)
 
 ## 👩‍🔧 Work
 - [Kraken Digital Asset Exchange](https://www.kraken.com/) - Data Engineer. Jun 2022 - Present
