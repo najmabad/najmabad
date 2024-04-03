@@ -44,15 +44,16 @@ najma_bader = {"I am           🐼 ": ["Data Engineer", "Data Analyst"],
  - [How to write a good Dockerfile](https://medium.com/p/2a294f04975c)
 
 ## 👩‍🔧 Work
-- [Kraken Digital Asset Exchange](https://www.kraken.com/) - Data Engineer. Jun 2022 - Present
+- [Cable]([https://www.kraken.com/](https://cable.tech/)) - Data Engineer. March 2023 - present
+- [Kraken Digital Asset Exchange](https://www.kraken.com/) - Data Engineer. Jun 2022 - Dec 2022
 - [Adyen](https://www.adyen.com) - Data Analyst/Analytics Engineer. Jun 2021 - Jun 2022
 - [Glovo](https://glovoapp.com/) - Senior Data Analyst. Sep 2019 - Apr 2021
 - [University of Chicago Booth](https://www.chicagobooth.edu/) - Pre-Doctoral Research Professional. Oct 2018 - Sep 2019
 
 
 ## Education
-- MSc in Economics and Social Sciences - GPA 4
-- BA in Linguistics, Literature, and Political science  - GPA 4
+- MSc in Economics and Social Sciences - GPA 4.0
+- BA in Linguistics, Literature, and Political science  - GPA 4.0
 
 ## Countries I lived in:
 - 🇬🇷 Greece
